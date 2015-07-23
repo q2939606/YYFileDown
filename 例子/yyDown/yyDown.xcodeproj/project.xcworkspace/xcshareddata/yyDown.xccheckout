@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>960A4F34-CBBD-49E8-88B4-729541569BD6</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FED490CF48CD598543E89E99B2930DEFD4A42C8C</key>
+		<string>https://github.com/q2939606/YY-.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FED490CF48CD598543E89E99B2930DEFD4A42C8C</key>
+		<string>YYFileDown/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/q2939606/YY-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FED490CF48CD598543E89E99B2930DEFD4A42C8C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FED490CF48CD598543E89E99B2930DEFD4A42C8C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YYFileDown</string>
+		</dict>
+	</array>
+</dict>
+</plist>
